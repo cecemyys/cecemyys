@@ -1,13 +1,11 @@
-### Hi there 👋
+👋 Merhaba! Ben bir React Native geliştiricisiyim, kendimi sürekli geliştirmeye adayan, sosyal ve disiplinli biriyim. Yazılım dünyasında yeni teknolojileri öğrenmeyi ve uygulamayı seviyorum. Özellikle yapay zeka alanına olan ilgim beni büyülüyor.
 
-**cecemyys/cecemyys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 HTML | CSS | JavaScript | Bootstrap | Sass | React Native
 
-Here are some ideas to get you started:
+🚀 Performans odaklı, kullanıcı dostu ve platformlar arası uyumlu uygulamalar geliştirmekteyim.
 
-- 🔭 I’m currently working on front-end
-- 🌱 I’m currently learning react
-- 👯 I’m looking to collaborate on project
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about anything
-- 📫 How to reach me: cecemyy@gmail.com
-- ⚡ Fun fact: ...html,css,bootstrap
+💡 Yapay zeka alanındaki ilgim beni motive ediyor ve geleceğin teknolojik trendlerine olan merakımı besliyor. Veri analizi ve makine öğrenmesi gibi alanlarda kendimi geliştirmek için araştırma yapmayı seviyorum.
+
+🌐 GitHub profilimde projelerimi paylaşıyor ve açık kaynaklı katkılarda bulunuyorum. Yazılım dünyasındaki son gelişmeleri takip etmek için buradayım.
+
+🤝 Sizlerle aynı ilgi alanlarını paylaşan insanlarla bağlantı kurmayı ve tecrübelerimizi paylaşmayı sabırsızlıkla bekliyorum. Birlikte daha büyük başarılara imza atmak için iletişime geçmekten mutluluk duyarım!

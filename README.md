@@ -1,4 +1,4 @@
-👋 Merhaba! Ben bir React Native geliştiricisiyim, kendimi sürekli geliştirmeye adayan, sosyal ve disiplinli biriyim. Yazılım dünyasında yeni teknolojileri öğrenmeyi ve uygulamayı seviyorum. Özellikle yapay zeka alanına olan ilgim beni büyülüyor.
+👋 Merhaba! Ben bir React  geliştiricisiyim, kendimi sürekli geliştirmeye adayan, sosyal ve disiplinli biriyim. Yazılım dünyasında yeni teknolojileri öğrenmeyi ve uygulamayı seviyorum. Özellikle yapay zeka alanına olan ilgim beni büyülüyor.
 
 💻 HTML | CSS | JavaScript | Bootstrap | Sass | React Native
 
